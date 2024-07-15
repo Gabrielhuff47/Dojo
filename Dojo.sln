@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dojo.BLL", "Dojo.BLL\Dojo.B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dojo.DAO", "Dojo.DAO\Dojo.DAO.csproj", "{2F440FFA-564C-43FC-BD44-EC4BD87F675E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dojo.Test", "Dojo.Test\Dojo.Test.csproj", "{6D899BC7-0B1F-4A9C-879E-2AECBEB50A77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2F440FFA-564C-43FC-BD44-EC4BD87F675E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F440FFA-564C-43FC-BD44-EC4BD87F675E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F440FFA-564C-43FC-BD44-EC4BD87F675E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D899BC7-0B1F-4A9C-879E-2AECBEB50A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D899BC7-0B1F-4A9C-879E-2AECBEB50A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D899BC7-0B1F-4A9C-879E-2AECBEB50A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D899BC7-0B1F-4A9C-879E-2AECBEB50A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

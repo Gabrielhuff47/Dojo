@@ -2,7 +2,7 @@ namespace Dojo.DAO.BaseRepository;
 
 public interface IBaseRepository<TEntity> where TEntity : class
 {
-    Task<TEntity> GetEntityAsync(int id);
+    Task<TEntity>  GetByIdAsync(int id);
 
     Task<IEnumerable<TEntity>> GetAllAsync();
 
