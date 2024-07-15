@@ -12,6 +12,7 @@ public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : 
     {
         _context = context;
     }
+    
     public async Task AddAsync(TEntity entity)
     {
         await _context.Set<TEntity>().AddAsync(entity);
@@ -25,7 +26,7 @@ public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : 
         await _context.SaveChangesAsync();
     }
 
-    public async Task UdateAsync(TEntity entity)
+    public async Task UpdateAsync(TEntity entity)
     {
         _context.Set<TEntity>().Update(entity);
         await _context.SaveChangesAsync();
@@ -41,6 +42,4 @@ public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : 
     {
         return await _context.Set<TEntity>().FindAsync(id);
     }
-
-
 }

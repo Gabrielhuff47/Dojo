@@ -23,9 +23,9 @@ public class UsuarioRepository : BaseRepository<Usuario>, IUsuarioRepository
         await base.DeleteAsync(id);
     }
 
-    public async Task UdateAsync(Usuario entity)
+    public async Task UpdateAsync(Usuario entity)
     {
-        await base.UdateAsync(entity);
+        await base.UpdateAsync(entity);
     }
 
     public async Task<IEnumerable<Usuario>> GetAllAsync()
