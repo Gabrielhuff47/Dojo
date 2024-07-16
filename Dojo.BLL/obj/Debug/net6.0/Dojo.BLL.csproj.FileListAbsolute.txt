@@ -1,0 +1,15 @@
+C:\Users\gabrielq\dojo\Dojo.BLL\bin\Debug\net6.0\Dojo.BLL.deps.json
+C:\Users\gabrielq\dojo\Dojo.BLL\bin\Debug\net6.0\Dojo.BLL.dll
+C:\Users\gabrielq\dojo\Dojo.BLL\bin\Debug\net6.0\Dojo.BLL.pdb
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.csproj.AssemblyReference.cache
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.AssemblyInfoInputs.cache
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.AssemblyInfo.cs
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.dll
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\refint\Dojo.BLL.dll
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.pdb
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\ref\Dojo.BLL.dll
+C:\Users\gabrielq\dojo\Dojo.BLL\bin\Debug\net6.0\Dojo.DAO.dll
+C:\Users\gabrielq\dojo\Dojo.BLL\bin\Debug\net6.0\Dojo.DAO.pdb
+C:\Users\gabrielq\dojo\Dojo.BLL\obj\Debug\net6.0\Dojo.BLL.csproj.CopyComplete
